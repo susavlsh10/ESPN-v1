@@ -1,0 +1,270 @@
+Using 1 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 890688/4096(KiB) IOSize: 4(KiB) Throughput: 1.727361 GiB/sec, Avg_Latency: 797.000000 usecs ops: 222672 total_time 0.491748 secs
+
+
+Using 2 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 842712/4096(KiB) IOSize: 4(KiB) Throughput: 1.085478 GiB/sec, Avg_Latency: 934.000000 usecs ops: 210678 total_time 0.740386 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 836868/4096(KiB) IOSize: 4(KiB) Throughput: 1.083413 GiB/sec, Avg_Latency: 779.000000 usecs ops: 209217 total_time 0.736653 secs
+
+
+Using 3 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 354140/4096(KiB) IOSize: 4(KiB) Throughput: 0.722221 GiB/sec, Avg_Latency: 1060.000000 usecs ops: 88535 total_time 0.467633 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 350132/4096(KiB) IOSize: 4(KiB) Throughput: 0.713249 GiB/sec, Avg_Latency: 1124.000000 usecs ops: 87533 total_time 0.468156 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 350924/4096(KiB) IOSize: 4(KiB) Throughput: 0.720346 GiB/sec, Avg_Latency: 765.000000 usecs ops: 87731 total_time 0.464592 secs
+
+
+Using 4 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 453580/4096(KiB) IOSize: 4(KiB) Throughput: 0.535799 GiB/sec, Avg_Latency: 769.000000 usecs ops: 113395 total_time 0.807332 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 458504/4096(KiB) IOSize: 4(KiB) Throughput: 0.537011 GiB/sec, Avg_Latency: 1471.000000 usecs ops: 114626 total_time 0.814254 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 456132/4096(KiB) IOSize: 4(KiB) Throughput: 0.533967 GiB/sec, Avg_Latency: 1379.000000 usecs ops: 114033 total_time 0.814660 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 459800/4096(KiB) IOSize: 4(KiB) Throughput: 0.539045 GiB/sec, Avg_Latency: 1228.000000 usecs ops: 114950 total_time 0.813475 secs
+
+
+Using 5 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 231880/4096(KiB) IOSize: 4(KiB) Throughput: 0.427373 GiB/sec, Avg_Latency: 1476.000000 usecs ops: 57970 total_time 0.517435 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 234376/4096(KiB) IOSize: 4(KiB) Throughput: 0.433374 GiB/sec, Avg_Latency: 1164.000000 usecs ops: 58594 total_time 0.515763 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 236964/4096(KiB) IOSize: 4(KiB) Throughput: 0.433089 GiB/sec, Avg_Latency: 2382.000000 usecs ops: 59241 total_time 0.521802 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 230464/4096(KiB) IOSize: 4(KiB) Throughput: 0.429616 GiB/sec, Avg_Latency: 766.000000 usecs ops: 57616 total_time 0.511591 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 289532/4096(KiB) IOSize: 4(KiB) Throughput: 0.499120 GiB/sec, Avg_Latency: 3188.000000 usecs ops: 72383 total_time 0.553212 secs
+
+
+Using 6 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 144160/4096(KiB) IOSize: 4(KiB) Throughput: 0.356325 GiB/sec, Avg_Latency: 1364.000000 usecs ops: 36040 total_time 0.385832 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 150788/4096(KiB) IOSize: 4(KiB) Throughput: 0.364734 GiB/sec, Avg_Latency: 4389.000000 usecs ops: 37697 total_time 0.394267 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 143228/4096(KiB) IOSize: 4(KiB) Throughput: 0.357213 GiB/sec, Avg_Latency: 815.000000 usecs ops: 35807 total_time 0.382385 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 146552/4096(KiB) IOSize: 4(KiB) Throughput: 0.358585 GiB/sec, Avg_Latency: 3231.000000 usecs ops: 36638 total_time 0.389762 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 145000/4096(KiB) IOSize: 4(KiB) Throughput: 0.357758 GiB/sec, Avg_Latency: 1484.000000 usecs ops: 36250 total_time 0.386526 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 144116/4096(KiB) IOSize: 4(KiB) Throughput: 0.356712 GiB/sec, Avg_Latency: 1853.000000 usecs ops: 36029 total_time 0.385296 secs
+
+
+Using 7 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 109720/4096(KiB) IOSize: 4(KiB) Throughput: 0.308559 GiB/sec, Avg_Latency: 1329.000000 usecs ops: 27430 total_time 0.339116 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 108876/4096(KiB) IOSize: 4(KiB) Throughput: 0.306615 GiB/sec, Avg_Latency: 1498.000000 usecs ops: 27219 total_time 0.338641 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 107184/4096(KiB) IOSize: 4(KiB) Throughput: 0.305537 GiB/sec, Avg_Latency: 995.000000 usecs ops: 26796 total_time 0.334554 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 110512/4096(KiB) IOSize: 4(KiB) Throughput: 0.307333 GiB/sec, Avg_Latency: 2647.000000 usecs ops: 27628 total_time 0.342926 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 112516/4096(KiB) IOSize: 4(KiB) Throughput: 0.309527 GiB/sec, Avg_Latency: 4076.000000 usecs ops: 28129 total_time 0.346670 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 162172/4096(KiB) IOSize: 4(KiB) Throughput: 0.410025 GiB/sec, Avg_Latency: 6143.000000 usecs ops: 40543 total_time 0.377195 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 115496/4096(KiB) IOSize: 4(KiB) Throughput: 0.314855 GiB/sec, Avg_Latency: 5168.000000 usecs ops: 28874 total_time 0.349829 secs
+
+
+Using 8 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 211900/4096(KiB) IOSize: 4(KiB) Throughput: 0.266903 GiB/sec, Avg_Latency: 1159.000000 usecs ops: 52975 total_time 0.757143 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 213084/4096(KiB) IOSize: 4(KiB) Throughput: 0.268337 GiB/sec, Avg_Latency: 1327.000000 usecs ops: 53271 total_time 0.757304 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 208140/4096(KiB) IOSize: 4(KiB) Throughput: 0.261769 GiB/sec, Avg_Latency: 1687.000000 usecs ops: 52035 total_time 0.758295 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 209520/4096(KiB) IOSize: 4(KiB) Throughput: 0.262654 GiB/sec, Avg_Latency: 3798.000000 usecs ops: 52380 total_time 0.760750 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 239104/4096(KiB) IOSize: 4(KiB) Throughput: 0.291036 GiB/sec, Avg_Latency: 8658.000000 usecs ops: 59776 total_time 0.783501 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 208272/4096(KiB) IOSize: 4(KiB) Throughput: 0.262020 GiB/sec, Avg_Latency: 1643.000000 usecs ops: 52068 total_time 0.758049 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 210668/4096(KiB) IOSize: 4(KiB) Throughput: 0.264681 GiB/sec, Avg_Latency: 2268.000000 usecs ops: 52667 total_time 0.759059 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 212460/4096(KiB) IOSize: 4(KiB) Throughput: 0.267231 GiB/sec, Avg_Latency: 1868.000000 usecs ops: 53115 total_time 0.758212 secs
+
+
+Using 9 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 79124/4096(KiB) IOSize: 4(KiB) Throughput: 0.236159 GiB/sec, Avg_Latency: 2121.000000 usecs ops: 19781 total_time 0.319524 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 117096/4096(KiB) IOSize: 4(KiB) Throughput: 0.309768 GiB/sec, Avg_Latency: 10347.000000 usecs ops: 29274 total_time 0.360500 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 85000/4096(KiB) IOSize: 4(KiB) Throughput: 0.242209 GiB/sec, Avg_Latency: 7349.000000 usecs ops: 21250 total_time 0.334679 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 80464/4096(KiB) IOSize: 4(KiB) Throughput: 0.239733 GiB/sec, Avg_Latency: 1222.000000 usecs ops: 20116 total_time 0.320091 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 82012/4096(KiB) IOSize: 4(KiB) Throughput: 0.241025 GiB/sec, Avg_Latency: 3034.000000 usecs ops: 20503 total_time 0.324501 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 80204/4096(KiB) IOSize: 4(KiB) Throughput: 0.234743 GiB/sec, Avg_Latency: 3363.000000 usecs ops: 20051 total_time 0.325839 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 89996/4096(KiB) IOSize: 4(KiB) Throughput: 0.247923 GiB/sec, Avg_Latency: 9174.000000 usecs ops: 22499 total_time 0.346183 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 84012/4096(KiB) IOSize: 4(KiB) Throughput: 0.237041 GiB/sec, Avg_Latency: 7792.000000 usecs ops: 21003 total_time 0.338001 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 84752/4096(KiB) IOSize: 4(KiB) Throughput: 0.239574 GiB/sec, Avg_Latency: 7497.000000 usecs ops: 21188 total_time 0.337373 secs
+
+
+Using 10 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 103344/4096(KiB) IOSize: 4(KiB) Throughput: 0.213133 GiB/sec, Avg_Latency: 1505.000000 usecs ops: 25836 total_time 0.462419 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 105308/4096(KiB) IOSize: 4(KiB) Throughput: 0.211562 GiB/sec, Avg_Latency: 7356.000000 usecs ops: 26327 total_time 0.474704 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 109488/4096(KiB) IOSize: 4(KiB) Throughput: 0.217672 GiB/sec, Avg_Latency: 8289.000000 usecs ops: 27372 total_time 0.479693 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 102756/4096(KiB) IOSize: 4(KiB) Throughput: 0.212753 GiB/sec, Avg_Latency: 793.000000 usecs ops: 25689 total_time 0.460609 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 130320/4096(KiB) IOSize: 4(KiB) Throughput: 0.247811 GiB/sec, Avg_Latency: 12577.000000 usecs ops: 32580 total_time 0.501523 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 111316/4096(KiB) IOSize: 4(KiB) Throughput: 0.218128 GiB/sec, Avg_Latency: 10347.000000 usecs ops: 27829 total_time 0.486684 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 102684/4096(KiB) IOSize: 4(KiB) Throughput: 0.210979 GiB/sec, Avg_Latency: 2179.000000 usecs ops: 25671 total_time 0.464155 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 120456/4096(KiB) IOSize: 4(KiB) Throughput: 0.232093 GiB/sec, Avg_Latency: 11564.000000 usecs ops: 30114 total_time 0.494955 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 106148/4096(KiB) IOSize: 4(KiB) Throughput: 0.216226 GiB/sec, Avg_Latency: 4501.000000 usecs ops: 26537 total_time 0.468171 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 103124/4096(KiB) IOSize: 4(KiB) Throughput: 0.211778 GiB/sec, Avg_Latency: 2326.000000 usecs ops: 25781 total_time 0.464385 secs
+
+
+Using 11 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 85468/4096(KiB) IOSize: 4(KiB) Throughput: 0.194467 GiB/sec, Avg_Latency: 1509.000000 usecs ops: 21367 total_time 0.419138 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 95508/4096(KiB) IOSize: 4(KiB) Throughput: 0.206383 GiB/sec, Avg_Latency: 10084.000000 usecs ops: 23877 total_time 0.441333 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 89164/4096(KiB) IOSize: 4(KiB) Throughput: 0.195824 GiB/sec, Avg_Latency: 8279.000000 usecs ops: 22291 total_time 0.434233 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 87544/4096(KiB) IOSize: 4(KiB) Throughput: 0.198849 GiB/sec, Avg_Latency: 1963.000000 usecs ops: 21886 total_time 0.419858 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 85404/4096(KiB) IOSize: 4(KiB) Throughput: 0.193051 GiB/sec, Avg_Latency: 2771.000000 usecs ops: 21351 total_time 0.421897 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 85728/4096(KiB) IOSize: 4(KiB) Throughput: 0.196259 GiB/sec, Avg_Latency: 1016.000000 usecs ops: 21432 total_time 0.416576 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 105220/4096(KiB) IOSize: 4(KiB) Throughput: 0.221103 GiB/sec, Avg_Latency: 13774.000000 usecs ops: 26305 total_time 0.453840 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 85756/4096(KiB) IOSize: 4(KiB) Throughput: 0.191498 GiB/sec, Avg_Latency: 5814.000000 usecs ops: 21439 total_time 0.427072 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 94492/4096(KiB) IOSize: 4(KiB) Throughput: 0.201566 GiB/sec, Avg_Latency: 11955.000000 usecs ops: 23623 total_time 0.447072 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 89504/4096(KiB) IOSize: 4(KiB) Throughput: 0.194282 GiB/sec, Avg_Latency: 9735.000000 usecs ops: 22376 total_time 0.439349 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 83724/4096(KiB) IOSize: 4(KiB) Throughput: 0.188108 GiB/sec, Avg_Latency: 4074.000000 usecs ops: 20931 total_time 0.424465 secs
+
+
+Using 12 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 158940/4096(KiB) IOSize: 4(KiB) Throughput: 0.180244 GiB/sec, Avg_Latency: 8890.000000 usecs ops: 39735 total_time 0.840953 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 192696/4096(KiB) IOSize: 4(KiB) Throughput: 0.208388 GiB/sec, Avg_Latency: 17850.000000 usecs ops: 48174 total_time 0.881862 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 155560/4096(KiB) IOSize: 4(KiB) Throughput: 0.179477 GiB/sec, Avg_Latency: 860.000000 usecs ops: 38890 total_time 0.826589 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 156020/4096(KiB) IOSize: 4(KiB) Throughput: 0.177315 GiB/sec, Avg_Latency: 8648.000000 usecs ops: 39005 total_time 0.839140 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 154020/4096(KiB) IOSize: 4(KiB) Throughput: 0.176208 GiB/sec, Avg_Latency: 4524.000000 usecs ops: 38505 total_time 0.833589 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 154468/4096(KiB) IOSize: 4(KiB) Throughput: 0.177521 GiB/sec, Avg_Latency: 1941.000000 usecs ops: 38617 total_time 0.829831 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 157640/4096(KiB) IOSize: 4(KiB) Throughput: 0.178743 GiB/sec, Avg_Latency: 9285.000000 usecs ops: 39410 total_time 0.841078 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 168064/4096(KiB) IOSize: 4(KiB) Throughput: 0.185310 GiB/sec, Avg_Latency: 15835.000000 usecs ops: 42016 total_time 0.864922 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 177612/4096(KiB) IOSize: 4(KiB) Throughput: 0.194820 GiB/sec, Avg_Latency: 15736.000000 usecs ops: 44403 total_time 0.869440 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 155200/4096(KiB) IOSize: 4(KiB) Throughput: 0.174896 GiB/sec, Avg_Latency: 11285.000000 usecs ops: 38800 total_time 0.846277 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 157284/4096(KiB) IOSize: 4(KiB) Throughput: 0.181592 GiB/sec, Avg_Latency: 1013.000000 usecs ops: 39321 total_time 0.826017 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 149884/4096(KiB) IOSize: 4(KiB) Throughput: 0.172170 GiB/sec, Avg_Latency: 2454.000000 usecs ops: 37471 total_time 0.830230 secs
+
+
+Using 13 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 102136/4096(KiB) IOSize: 4(KiB) Throughput: 0.165715 GiB/sec, Avg_Latency: 12473.000000 usecs ops: 25534 total_time 0.587784 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 99832/4096(KiB) IOSize: 4(KiB) Throughput: 0.165275 GiB/sec, Avg_Latency: 4316.000000 usecs ops: 24958 total_time 0.576055 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 98284/4096(KiB) IOSize: 4(KiB) Throughput: 0.158936 GiB/sec, Avg_Latency: 13740.000000 usecs ops: 24571 total_time 0.589739 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 98260/4096(KiB) IOSize: 4(KiB) Throughput: 0.164033 GiB/sec, Avg_Latency: 1476.000000 usecs ops: 24565 total_time 0.571274 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 99784/4096(KiB) IOSize: 4(KiB) Throughput: 0.160905 GiB/sec, Avg_Latency: 14848.000000 usecs ops: 24946 total_time 0.591413 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 169464/4096(KiB) IOSize: 4(KiB) Throughput: 0.260636 GiB/sec, Avg_Latency: 3580.000000 usecs ops: 42366 total_time 0.620073 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 103636/4096(KiB) IOSize: 4(KiB) Throughput: 0.165767 GiB/sec, Avg_Latency: 18406.000000 usecs ops: 25909 total_time 0.596230 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 95084/4096(KiB) IOSize: 4(KiB) Throughput: 0.158422 GiB/sec, Avg_Latency: 1990.000000 usecs ops: 23771 total_time 0.572389 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 99844/4096(KiB) IOSize: 4(KiB) Throughput: 0.161146 GiB/sec, Avg_Latency: 13974.000000 usecs ops: 24961 total_time 0.590883 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 101804/4096(KiB) IOSize: 4(KiB) Throughput: 0.166112 GiB/sec, Avg_Latency: 10381.000000 usecs ops: 25451 total_time 0.584474 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 99780/4096(KiB) IOSize: 4(KiB) Throughput: 0.165359 GiB/sec, Avg_Latency: 3982.000000 usecs ops: 24945 total_time 0.575460 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 99732/4096(KiB) IOSize: 4(KiB) Throughput: 0.161791 GiB/sec, Avg_Latency: 12930.000000 usecs ops: 24933 total_time 0.587870 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 95768/4096(KiB) IOSize: 4(KiB) Throughput: 0.158243 GiB/sec, Avg_Latency: 1058.000000 usecs ops: 23942 total_time 0.577158 secs
+
+
+Using 14 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 84224/4096(KiB) IOSize: 4(KiB) Throughput: 0.146235 GiB/sec, Avg_Latency: 10815.000000 usecs ops: 21056 total_time 0.549270 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 86916/4096(KiB) IOSize: 4(KiB) Throughput: 0.154294 GiB/sec, Avg_Latency: 1936.000000 usecs ops: 21729 total_time 0.537219 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 88268/4096(KiB) IOSize: 4(KiB) Throughput: 0.155872 GiB/sec, Avg_Latency: 3931.000000 usecs ops: 22067 total_time 0.540051 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 86744/4096(KiB) IOSize: 4(KiB) Throughput: 0.154775 GiB/sec, Avg_Latency: 873.000000 usecs ops: 21686 total_time 0.534490 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 90756/4096(KiB) IOSize: 4(KiB) Throughput: 0.152904 GiB/sec, Avg_Latency: 20963.000000 usecs ops: 22689 total_time 0.566054 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 90540/4096(KiB) IOSize: 4(KiB) Throughput: 0.152333 GiB/sec, Avg_Latency: 21260.000000 usecs ops: 22635 total_time 0.566822 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 91692/4096(KiB) IOSize: 4(KiB) Throughput: 0.154288 GiB/sec, Avg_Latency: 21615.000000 usecs ops: 22923 total_time 0.566762 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 114256/4096(KiB) IOSize: 4(KiB) Throughput: 0.184722 GiB/sec, Avg_Latency: 27026.000000 usecs ops: 28564 total_time 0.589876 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 86388/4096(KiB) IOSize: 4(KiB) Throughput: 0.151007 GiB/sec, Avg_Latency: 8383.000000 usecs ops: 21597 total_time 0.545577 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 84924/4096(KiB) IOSize: 4(KiB) Throughput: 0.149499 GiB/sec, Avg_Latency: 5146.000000 usecs ops: 21231 total_time 0.541743 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 86308/4096(KiB) IOSize: 4(KiB) Throughput: 0.150215 GiB/sec, Avg_Latency: 10161.000000 usecs ops: 21577 total_time 0.547945 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 82528/4096(KiB) IOSize: 4(KiB) Throughput: 0.146329 GiB/sec, Avg_Latency: 2232.000000 usecs ops: 20632 total_time 0.537864 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 86708/4096(KiB) IOSize: 4(KiB) Throughput: 0.148672 GiB/sec, Avg_Latency: 15824.000000 usecs ops: 21677 total_time 0.556198 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 88628/4096(KiB) IOSize: 4(KiB) Throughput: 0.148443 GiB/sec, Avg_Latency: 22621.000000 usecs ops: 22157 total_time 0.569393 secs
+
+
+Using 15 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 98192/4096(KiB) IOSize: 4(KiB) Throughput: 0.142902 GiB/sec, Avg_Latency: 904.000000 usecs ops: 24548 total_time 0.655295 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 96344/4096(KiB) IOSize: 4(KiB) Throughput: 0.137665 GiB/sec, Avg_Latency: 8726.000000 usecs ops: 24086 total_time 0.667423 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 97216/4096(KiB) IOSize: 4(KiB) Throughput: 0.140924 GiB/sec, Avg_Latency: 1872.000000 usecs ops: 24304 total_time 0.657891 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 99604/4096(KiB) IOSize: 4(KiB) Throughput: 0.139737 GiB/sec, Avg_Latency: 16410.000000 usecs ops: 24901 total_time 0.679774 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 97428/4096(KiB) IOSize: 4(KiB) Throughput: 0.140684 GiB/sec, Avg_Latency: 3449.000000 usecs ops: 24357 total_time 0.660448 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 101368/4096(KiB) IOSize: 4(KiB) Throughput: 0.143809 GiB/sec, Avg_Latency: 11987.000000 usecs ops: 25342 total_time 0.672225 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 104180/4096(KiB) IOSize: 4(KiB) Throughput: 0.150972 GiB/sec, Avg_Latency: 2069.000000 usecs ops: 26045 total_time 0.658096 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 95296/4096(KiB) IOSize: 4(KiB) Throughput: 0.137763 GiB/sec, Avg_Latency: 2809.000000 usecs ops: 23824 total_time 0.659694 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 136172/4096(KiB) IOSize: 4(KiB) Throughput: 0.175833 GiB/sec, Avg_Latency: 36400.000000 usecs ops: 34043 total_time 0.738565 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 97468/4096(KiB) IOSize: 4(KiB) Throughput: 0.137074 GiB/sec, Avg_Latency: 14934.000000 usecs ops: 24367 total_time 0.678123 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 103492/4096(KiB) IOSize: 4(KiB) Throughput: 0.145623 GiB/sec, Avg_Latency: 14175.000000 usecs ops: 25873 total_time 0.677761 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 210564/4096(KiB) IOSize: 4(KiB) Throughput: 0.257371 GiB/sec, Avg_Latency: 30245.000000 usecs ops: 52641 total_time 0.780235 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 97416/4096(KiB) IOSize: 4(KiB) Throughput: 0.138557 GiB/sec, Avg_Latency: 10702.000000 usecs ops: 24354 total_time 0.670506 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 100512/4096(KiB) IOSize: 4(KiB) Throughput: 0.139896 GiB/sec, Avg_Latency: 19309.000000 usecs ops: 25128 total_time 0.685194 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 104416/4096(KiB) IOSize: 4(KiB) Throughput: 0.142956 GiB/sec, Avg_Latency: 27485.000000 usecs ops: 26104 total_time 0.696572 secs
+
+
+Using 16 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 194596/4096(KiB) IOSize: 4(KiB) Throughput: 0.199951 GiB/sec, Avg_Latency: 38669.000000 usecs ops: 48649 total_time 0.928132 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 117976/4096(KiB) IOSize: 4(KiB) Throughput: 0.131645 GiB/sec, Avg_Latency: 30224.000000 usecs ops: 29494 total_time 0.854655 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 113800/4096(KiB) IOSize: 4(KiB) Throughput: 0.130156 GiB/sec, Avg_Latency: 14089.000000 usecs ops: 28450 total_time 0.833832 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 113288/4096(KiB) IOSize: 4(KiB) Throughput: 0.130606 GiB/sec, Avg_Latency: 8371.000000 usecs ops: 28322 total_time 0.827219 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 115552/4096(KiB) IOSize: 4(KiB) Throughput: 0.133079 GiB/sec, Avg_Latency: 9407.000000 usecs ops: 28888 total_time 0.828073 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 124972/4096(KiB) IOSize: 4(KiB) Throughput: 0.136501 GiB/sec, Avg_Latency: 34086.000000 usecs ops: 31243 total_time 0.873124 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 113592/4096(KiB) IOSize: 4(KiB) Throughput: 0.129195 GiB/sec, Avg_Latency: 15651.000000 usecs ops: 28398 total_time 0.838500 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 115244/4096(KiB) IOSize: 4(KiB) Throughput: 0.135397 GiB/sec, Avg_Latency: 1155.000000 usecs ops: 28811 total_time 0.811724 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 116452/4096(KiB) IOSize: 4(KiB) Throughput: 0.131334 GiB/sec, Avg_Latency: 23470.000000 usecs ops: 29113 total_time 0.845609 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 115276/4096(KiB) IOSize: 4(KiB) Throughput: 0.133402 GiB/sec, Avg_Latency: 6012.000000 usecs ops: 28819 total_time 0.824093 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 114612/4096(KiB) IOSize: 4(KiB) Throughput: 0.132993 GiB/sec, Avg_Latency: 3943.000000 usecs ops: 28653 total_time 0.821868 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 139092/4096(KiB) IOSize: 4(KiB) Throughput: 0.149233 GiB/sec, Avg_Latency: 38153.000000 usecs ops: 34773 total_time 0.888868 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 110500/4096(KiB) IOSize: 4(KiB) Throughput: 0.129803 GiB/sec, Avg_Latency: 1252.000000 usecs ops: 27625 total_time 0.811851 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 113500/4096(KiB) IOSize: 4(KiB) Throughput: 0.131873 GiB/sec, Avg_Latency: 3206.000000 usecs ops: 28375 total_time 0.820808 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 121392/4096(KiB) IOSize: 4(KiB) Throughput: 0.133768 GiB/sec, Avg_Latency: 31782.000000 usecs ops: 30348 total_time 0.865439 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 122708/4096(KiB) IOSize: 4(KiB) Throughput: 0.133985 GiB/sec, Avg_Latency: 34294.000000 usecs ops: 30677 total_time 0.873410 secs
+
+
+Using 17 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 107116/4096(KiB) IOSize: 4(KiB) Throughput: 0.124024 GiB/sec, Avg_Latency: 9429.000000 usecs ops: 26779 total_time 0.823662 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 105184/4096(KiB) IOSize: 4(KiB) Throughput: 0.118710 GiB/sec, Avg_Latency: 21426.000000 usecs ops: 26296 total_time 0.845014 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 131528/4096(KiB) IOSize: 4(KiB) Throughput: 0.139066 GiB/sec, Avg_Latency: 44235.000000 usecs ops: 32882 total_time 0.901982 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 108508/4096(KiB) IOSize: 4(KiB) Throughput: 0.127956 GiB/sec, Avg_Latency: 1716.000000 usecs ops: 27127 total_time 0.808723 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 105520/4096(KiB) IOSize: 4(KiB) Throughput: 0.122681 GiB/sec, Avg_Latency: 8468.000000 usecs ops: 26380 total_time 0.820269 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 164668/4096(KiB) IOSize: 4(KiB) Throughput: 0.168962 GiB/sec, Avg_Latency: 41432.000000 usecs ops: 41167 total_time 0.929435 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 111820/4096(KiB) IOSize: 4(KiB) Throughput: 0.124391 GiB/sec, Avg_Latency: 25577.000000 usecs ops: 27955 total_time 0.857296 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 106272/4096(KiB) IOSize: 4(KiB) Throughput: 0.120344 GiB/sec, Avg_Latency: 21428.000000 usecs ops: 26568 total_time 0.842159 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 110312/4096(KiB) IOSize: 4(KiB) Throughput: 0.130408 GiB/sec, Avg_Latency: 934.000000 usecs ops: 27578 total_time 0.806712 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 116204/4096(KiB) IOSize: 4(KiB) Throughput: 0.128059 GiB/sec, Avg_Latency: 29455.000000 usecs ops: 29051 total_time 0.865388 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 114652/4096(KiB) IOSize: 4(KiB) Throughput: 0.127587 GiB/sec, Avg_Latency: 24991.000000 usecs ops: 28663 total_time 0.856986 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 103680/4096(KiB) IOSize: 4(KiB) Throughput: 0.121878 GiB/sec, Avg_Latency: 3114.000000 usecs ops: 25920 total_time 0.811279 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 108380/4096(KiB) IOSize: 4(KiB) Throughput: 0.127415 GiB/sec, Avg_Latency: 3051.000000 usecs ops: 27095 total_time 0.811202 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 170684/4096(KiB) IOSize: 4(KiB) Throughput: 0.174541 GiB/sec, Avg_Latency: 41862.000000 usecs ops: 42671 total_time 0.932598 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 107832/4096(KiB) IOSize: 4(KiB) Throughput: 0.121952 GiB/sec, Avg_Latency: 20701.000000 usecs ops: 26958 total_time 0.843255 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 113876/4096(KiB) IOSize: 4(KiB) Throughput: 0.128221 GiB/sec, Avg_Latency: 22043.000000 usecs ops: 28469 total_time 0.846983 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 108964/4096(KiB) IOSize: 4(KiB) Throughput: 0.126413 GiB/sec, Avg_Latency: 9020.000000 usecs ops: 27241 total_time 0.822034 secs
+
+
+Using 18 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 25444/4096(KiB) IOSize: 4(KiB) Throughput: 0.122110 GiB/sec, Avg_Latency: 7139.000000 usecs ops: 6361 total_time 0.198717 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 42828/4096(KiB) IOSize: 4(KiB) Throughput: 0.136015 GiB/sec, Avg_Latency: 60317.000000 usecs ops: 10707 total_time 0.300290 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 23844/4096(KiB) IOSize: 4(KiB) Throughput: 0.117946 GiB/sec, Avg_Latency: 2545.000000 usecs ops: 5961 total_time 0.192795 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 26932/4096(KiB) IOSize: 4(KiB) Throughput: 0.110688 GiB/sec, Avg_Latency: 19348.000000 usecs ops: 6733 total_time 0.232043 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 27048/4096(KiB) IOSize: 4(KiB) Throughput: 0.112378 GiB/sec, Avg_Latency: 24715.000000 usecs ops: 6762 total_time 0.229538 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 24256/4096(KiB) IOSize: 4(KiB) Throughput: 0.119927 GiB/sec, Avg_Latency: 2566.000000 usecs ops: 6064 total_time 0.192887 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 100776/4096(KiB) IOSize: 4(KiB) Throughput: 0.271243 GiB/sec, Avg_Latency: 39147.000000 usecs ops: 25194 total_time 0.354323 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 28480/4096(KiB) IOSize: 4(KiB) Throughput: 0.120197 GiB/sec, Avg_Latency: 17455.000000 usecs ops: 7120 total_time 0.225968 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 22820/4096(KiB) IOSize: 4(KiB) Throughput: 0.112588 GiB/sec, Avg_Latency: 3054.000000 usecs ops: 5705 total_time 0.193297 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 60108/4096(KiB) IOSize: 4(KiB) Throughput: 0.180701 GiB/sec, Avg_Latency: 43769.000000 usecs ops: 15027 total_time 0.317229 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 31952/4096(KiB) IOSize: 4(KiB) Throughput: 0.117038 GiB/sec, Avg_Latency: 37957.000000 usecs ops: 7988 total_time 0.260358 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 22936/4096(KiB) IOSize: 4(KiB) Throughput: 0.115908 GiB/sec, Avg_Latency: 1049.000000 usecs ops: 5734 total_time 0.188714 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 28016/4096(KiB) IOSize: 4(KiB) Throughput: 0.116761 GiB/sec, Avg_Latency: 22040.000000 usecs ops: 7004 total_time 0.228828 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 26452/4096(KiB) IOSize: 4(KiB) Throughput: 0.115624 GiB/sec, Avg_Latency: 15539.000000 usecs ops: 6613 total_time 0.218178 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 24960/4096(KiB) IOSize: 4(KiB) Throughput: 0.112631 GiB/sec, Avg_Latency: 15685.000000 usecs ops: 6240 total_time 0.211343 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 69352/4096(KiB) IOSize: 4(KiB) Throughput: 0.197729 GiB/sec, Avg_Latency: 44402.000000 usecs ops: 17338 total_time 0.334495 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 31564/4096(KiB) IOSize: 4(KiB) Throughput: 0.106790 GiB/sec, Avg_Latency: 54750.000000 usecs ops: 7891 total_time 0.281879 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 128388/4096(KiB) IOSize: 4(KiB) Throughput: 0.328612 GiB/sec, Avg_Latency: 33393.000000 usecs ops: 32097 total_time 0.372599 secs
+
+
+Using 19 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 23756/4096(KiB) IOSize: 4(KiB) Throughput: 0.103005 GiB/sec, Avg_Latency: 41386.000000 usecs ops: 5939 total_time 0.219946 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 21196/4096(KiB) IOSize: 4(KiB) Throughput: 0.097011 GiB/sec, Avg_Latency: 39993.000000 usecs ops: 5299 total_time 0.208368 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 29620/4096(KiB) IOSize: 4(KiB) Throughput: 0.103220 GiB/sec, Avg_Latency: 82609.000000 usecs ops: 7405 total_time 0.273665 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 20296/4096(KiB) IOSize: 4(KiB) Throughput: 0.109798 GiB/sec, Avg_Latency: 15345.000000 usecs ops: 5074 total_time 0.176285 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 19180/4096(KiB) IOSize: 4(KiB) Throughput: 0.119465 GiB/sec, Avg_Latency: 1808.000000 usecs ops: 4795 total_time 0.153111 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 31912/4096(KiB) IOSize: 4(KiB) Throughput: 0.118504 GiB/sec, Avg_Latency: 68020.000000 usecs ops: 7978 total_time 0.256815 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 20720/4096(KiB) IOSize: 4(KiB) Throughput: 0.112858 GiB/sec, Avg_Latency: 14480.000000 usecs ops: 5180 total_time 0.175088 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 19308/4096(KiB) IOSize: 4(KiB) Throughput: 0.083614 GiB/sec, Avg_Latency: 56410.000000 usecs ops: 4827 total_time 0.220221 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 18344/4096(KiB) IOSize: 4(KiB) Throughput: 0.107601 GiB/sec, Avg_Latency: 5717.000000 usecs ops: 4586 total_time 0.162584 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 17648/4096(KiB) IOSize: 4(KiB) Throughput: 0.111690 GiB/sec, Avg_Latency: 1082.000000 usecs ops: 4412 total_time 0.150689 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 19208/4096(KiB) IOSize: 4(KiB) Throughput: 0.109579 GiB/sec, Avg_Latency: 8607.000000 usecs ops: 4802 total_time 0.167169 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 18400/4096(KiB) IOSize: 4(KiB) Throughput: 0.104051 GiB/sec, Avg_Latency: 9923.000000 usecs ops: 4600 total_time 0.168644 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 52676/4096(KiB) IOSize: 4(KiB) Throughput: 0.220957 GiB/sec, Avg_Latency: 19895.000000 usecs ops: 13169 total_time 0.227355 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 20540/4096(KiB) IOSize: 4(KiB) Throughput: 0.120045 GiB/sec, Avg_Latency: 6352.000000 usecs ops: 5135 total_time 0.163176 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 21220/4096(KiB) IOSize: 4(KiB) Throughput: 0.105655 GiB/sec, Avg_Latency: 23854.000000 usecs ops: 5305 total_time 0.191538 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 19352/4096(KiB) IOSize: 4(KiB) Throughput: 0.103987 GiB/sec, Avg_Latency: 16717.000000 usecs ops: 4838 total_time 0.177479 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 52368/4096(KiB) IOSize: 4(KiB) Throughput: 0.219102 GiB/sec, Avg_Latency: 20036.000000 usecs ops: 13092 total_time 0.227940 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 20660/4096(KiB) IOSize: 4(KiB) Throughput: 0.109943 GiB/sec, Avg_Latency: 17407.000000 usecs ops: 5165 total_time 0.179211 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 19392/4096(KiB) IOSize: 4(KiB) Throughput: 0.107805 GiB/sec, Avg_Latency: 11866.000000 usecs ops: 4848 total_time 0.171548 secs
+
+
+Using 20 queries
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 25344/4096(KiB) IOSize: 4(KiB) Throughput: 0.100668 GiB/sec, Avg_Latency: 25427.000000 usecs ops: 6336 total_time 0.240095 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 171124/4096(KiB) IOSize: 4(KiB) Throughput: 0.396045 GiB/sec, Avg_Latency: 37129.000000 usecs ops: 42781 total_time 0.412066 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 47736/4096(KiB) IOSize: 4(KiB) Throughput: 0.144292 GiB/sec, Avg_Latency: 35974.000000 usecs ops: 11934 total_time 0.315504 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 22136/4096(KiB) IOSize: 4(KiB) Throughput: 0.099653 GiB/sec, Avg_Latency: 3619.000000 usecs ops: 5534 total_time 0.211841 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 21632/4096(KiB) IOSize: 4(KiB) Throughput: 0.099867 GiB/sec, Avg_Latency: 979.000000 usecs ops: 5408 total_time 0.206574 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 24088/4096(KiB) IOSize: 4(KiB) Throughput: 0.103812 GiB/sec, Avg_Latency: 9764.000000 usecs ops: 6022 total_time 0.221286 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 28864/4096(KiB) IOSize: 4(KiB) Throughput: 0.106590 GiB/sec, Avg_Latency: 24997.000000 usecs ops: 7216 total_time 0.258251 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 24620/4096(KiB) IOSize: 4(KiB) Throughput: 0.107599 GiB/sec, Avg_Latency: 7977.000000 usecs ops: 6155 total_time 0.218212 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 26232/4096(KiB) IOSize: 4(KiB) Throughput: 0.096850 GiB/sec, Avg_Latency: 40106.000000 usecs ops: 6558 total_time 0.258304 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 24748/4096(KiB) IOSize: 4(KiB) Throughput: 0.102485 GiB/sec, Avg_Latency: 16325.000000 usecs ops: 6187 total_time 0.230292 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 81048/4096(KiB) IOSize: 4(KiB) Throughput: 0.207336 GiB/sec, Avg_Latency: 58381.000000 usecs ops: 20262 total_time 0.372793 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 27824/4096(KiB) IOSize: 4(KiB) Throughput: 0.099836 GiB/sec, Avg_Latency: 33386.000000 usecs ops: 6956 total_time 0.265787 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 23604/4096(KiB) IOSize: 4(KiB) Throughput: 0.107618 GiB/sec, Avg_Latency: 1973.000000 usecs ops: 5901 total_time 0.209170 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 22928/4096(KiB) IOSize: 4(KiB) Throughput: 0.100267 GiB/sec, Avg_Latency: 8141.000000 usecs ops: 5732 total_time 0.218076 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 23548/4096(KiB) IOSize: 4(KiB) Throughput: 0.100955 GiB/sec, Avg_Latency: 12959.000000 usecs ops: 5887 total_time 0.222447 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 44880/4096(KiB) IOSize: 4(KiB) Throughput: 0.130573 GiB/sec, Avg_Latency: 61568.000000 usecs ops: 11220 total_time 0.327793 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 29344/4096(KiB) IOSize: 4(KiB) Throughput: 0.107951 GiB/sec, Avg_Latency: 21392.000000 usecs ops: 7336 total_time 0.259234 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 27292/4096(KiB) IOSize: 4(KiB) Throughput: 0.104196 GiB/sec, Avg_Latency: 28744.000000 usecs ops: 6823 total_time 0.249796 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 45532/4096(KiB) IOSize: 4(KiB) Throughput: 0.139643 GiB/sec, Avg_Latency: 35660.000000 usecs ops: 11383 total_time 0.310955 secs
+IoType: RANDREAD XferType: GPU_BATCH Threads: 1 IoDepth: 128 DataSetSize: 60056/4096(KiB) IOSize: 4(KiB) Throughput: 0.165280 GiB/sec, Avg_Latency: 48025.000000 usecs ops: 15014 total_time 0.346527 secs
+
+

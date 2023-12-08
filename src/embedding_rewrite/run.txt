@@ -1,0 +1,1 @@
+./embeddings /home/grads/s/sls7161/nvme/NeuralIR/ColBERTer/CLS/ /home/grads/s/sls7161/nvme/NeuralIR/ColBERTer/BOW/ /home/grads/s/sls7161/nvme/NeuralIR/ColBERTer/Aligned/

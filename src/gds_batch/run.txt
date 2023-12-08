@@ -1,0 +1,7 @@
+./cufile_bread /home/grads/s/sls7161/nvme/float_save/float_268435456_a.dat 0 128 8 1
+
+./GDS /home/grads/s/sls7161/nvme/NeuralIR/ColBERTer/Aligned/ColBERTer_vec1.bin 0 128 8 1
+
+to compile using nvcc 
+
+/home/grads/s/sls7161/anaconda3/envs/matchmaker///bin/nvcc -I /home/grads/s/sls7161/anaconda3/envs/matchmaker//include/  -I /home/grads/s/sls7161/anaconda3/envs/matchmaker/include/ -std=c++17 GPUDirectbatch.o utils.o -L /home/grads/s/sls7161/anaconda3/lib/ -lcufile -L /home/grads/s/sls7161/anaconda3/envs/matchmaker//lib64/stubs -lcuda -L /home/grads/s/sls7161/anaconda3/envs/matchmaker//lib64/ -lcudart_static -lrt -lpthread -ldl -lrt -ldl -L/home/grads/s/sls7161/Documents/cpp_installs/vcpkg/packages/jsoncpp_x64-linux/lib/ -ljsoncpp -o GDS
